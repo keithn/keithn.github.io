@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/keithn/keithn.github.io/posts/intro/</loc>
+    <loc>http://keithn.github.io/posts/intro/</loc>
     <lastmod>2017-09-13T10:06:55+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/keithn/keithn.github.io/</loc>
-    <lastmod>2017-09-13T10:06:55+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/keithn/keithn.github.io/posts/</loc>
+    <loc>http://keithn.github.io/</loc>
     <lastmod>2017-09-13T10:06:55+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/keithn/keithn.github.io/tags/</loc>
+    <loc>http://keithn.github.io/posts/</loc>
+    <lastmod>2017-09-13T10:06:55+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://keithn.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
