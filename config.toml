@@ -6,8 +6,7 @@ publishDir = "docs"
 
 
 [Author]
-    name = "My Name"
-    profile = "https://google.com/+XXX"
+    name = "Keith Nicholas"
 
 [Taxonomies]
     tag = "tags"
