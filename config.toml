@@ -3,3 +3,40 @@ languageCode = "en-us"
 title = "Keith Nicholas"
 theme = "ghostwriter"
 publishDir = "docs"
+
+
+[Author]
+    name = "My Name"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = false
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/keithn"
+    twitter = "https://twitter.com/XXX" 
+    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    email = "XXX@example.com"
+    opengraph = true
+    shareTwitter = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+    weight = 1
+
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 3
