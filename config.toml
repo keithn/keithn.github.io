@@ -1,4 +1,4 @@
-baseURL = "http://keithn.github.io/"
+baseURL = "https://github.com/keithn/keithn.github.io"
 languageCode = "en-us"
 title = "Keith Nicholas"
 theme = "ghostwriter"
