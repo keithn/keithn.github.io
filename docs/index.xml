@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keith Nicholas</title>
-    <link>http://keithn.github.io/</link>
+    <link>http://keithn.github.io/me/</link>
     <description>Recent content on Keith Nicholas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Sep 2017 10:06:55 +1200</lastBuildDate>
     
-	<atom:link href="http://keithn.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://keithn.github.io/me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starting to Blog again...</title>
-      <link>http://keithn.github.io/posts/intro/</link>
+      <link>http://keithn.github.io/me/posts/intro/</link>
       <pubDate>Wed, 13 Sep 2017 10:06:55 +1200</pubDate>
       
-      <guid>http://keithn.github.io/posts/intro/</guid>
+      <guid>http://keithn.github.io/me/posts/intro/</guid>
       <description>First post to Bootstrap my Blog!</description>
     </item>
     
